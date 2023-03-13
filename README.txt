@@ -1,1 +1,1 @@
-Sieci neuronowe
+Wizualizacja danych dotyczących speedcubingu czyli układania kostki rubika
